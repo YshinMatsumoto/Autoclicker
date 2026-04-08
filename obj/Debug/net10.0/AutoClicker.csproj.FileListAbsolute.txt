@@ -1,0 +1,14 @@
+c:\Projects\AutoClicker\bin\Debug\net10.0\AutoClicker.exe
+c:\Projects\AutoClicker\bin\Debug\net10.0\AutoClicker.deps.json
+c:\Projects\AutoClicker\bin\Debug\net10.0\AutoClicker.runtimeconfig.json
+c:\Projects\AutoClicker\bin\Debug\net10.0\AutoClicker.dll
+c:\Projects\AutoClicker\bin\Debug\net10.0\AutoClicker.pdb
+c:\Projects\AutoClicker\obj\Debug\net10.0\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\AutoClicker\obj\Debug\net10.0\AutoClicker.AssemblyInfoInputs.cache
+c:\Projects\AutoClicker\obj\Debug\net10.0\AutoClicker.AssemblyInfo.cs
+c:\Projects\AutoClicker\obj\Debug\net10.0\AutoClicker.csproj.CoreCompileInputs.cache
+c:\Projects\AutoClicker\obj\Debug\net10.0\AutoClicker.dll
+c:\Projects\AutoClicker\obj\Debug\net10.0\refint\AutoClicker.dll
+c:\Projects\AutoClicker\obj\Debug\net10.0\AutoClicker.pdb
+c:\Projects\AutoClicker\obj\Debug\net10.0\AutoClicker.genruntimeconfig.cache
+c:\Projects\AutoClicker\obj\Debug\net10.0\ref\AutoClicker.dll
